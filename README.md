@@ -1,1 +1,1 @@
-# machine-learning-projects---practices
+# machine-learning-projects-and-practices
